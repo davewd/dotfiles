@@ -1,0 +1,6 @@
+alias python=/opt/homebrew/Cellar/python@3.11/3.11.3
+alias python=/opt/homebrew/bin/python3
+
+export NVM_DIR=~/.nvm
+export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/usr/local/bin:$PATH"
